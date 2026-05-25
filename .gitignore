@@ -1,0 +1,9 @@
+# Final project files
+Final_Project_uncased.ipynb
+Final_Project.py
+
+# Jetbrains folders
+.idea
+
+# Model folders
+flat_cls
